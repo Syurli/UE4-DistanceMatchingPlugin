@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DistanceMatchingPlugin",
+	"Description": "Code From OutcastDevSchool",
+	"Category": "Other",
+	"CreatedBy": "Syurli",
+	"CreatedByURL": "https://www.youtube.com/playlist?list=PL8-kndpxmv9iH0t3lnAobGuIKdb7UnwKS",
+	"DocsURL": "https://answers.unrealengine.com/questions/531204/predict-stop-position-of-character-ahead-in-time.html",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DistanceMatchingPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
